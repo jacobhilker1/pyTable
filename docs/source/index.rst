@@ -13,7 +13,7 @@ Welcome to pyTable's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+pyTable is a simple python library with resources for tabletop role-playing games.
 
 Indices and tables
 ==================
